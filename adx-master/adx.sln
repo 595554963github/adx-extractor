@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adx", "adx\adx.csproj", "{015028F8-2B8D-47C6-B772-B1F62311B788}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adx-extractor", "adx-extractor.csproj", "{2A092026-4502-431D-9805-F0EB578149B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{015028F8-2B8D-47C6-B772-B1F62311B788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{015028F8-2B8D-47C6-B772-B1F62311B788}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{015028F8-2B8D-47C6-B772-B1F62311B788}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{015028F8-2B8D-47C6-B772-B1F62311B788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A092026-4502-431D-9805-F0EB578149B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A092026-4502-431D-9805-F0EB578149B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A092026-4502-431D-9805-F0EB578149B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A092026-4502-431D-9805-F0EB578149B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F7111C-9DCC-4FB8-8C15-AC78FEC77870}
 	EndGlobalSection
 EndGlobal
